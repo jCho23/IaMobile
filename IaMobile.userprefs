@@ -1,0 +1,15 @@
+﻿<Properties StartupConfiguration="{274C1C92-C004-4494-AD04-0BEB3007599D}|Unit Tests">
+  <MonoDevelop.Ide.Workbench ActiveDocument="IaMobile/Tests.cs">
+    <Files>
+      <File FileName="IaMobile/packages.config" Line="1" Column="1" />
+      <File FileName="IaMobile/AppInitializer.cs" Line="32" Column="7" />
+      <File FileName="IaMobile/Tests.cs" Line="6" Column="30" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.ItemProperties.IaMobile PreferredExecutionTarget="MonoDevelop.Default" />
+</Properties>
