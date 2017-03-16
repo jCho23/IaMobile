@@ -1,14 +1,14 @@
 # IaMobile
 Test Automation Scripts for iaMobile
 
-#Authors
+# Authors
 
 **June Cho**
 <br>
 *Microsoft Technical Solutions Professional*
 
 
-#License
+# License
 
 MIT License
 
