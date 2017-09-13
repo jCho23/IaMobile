@@ -5,6 +5,13 @@
       <File FileName="IaMobile/AppInitializer.cs" Line="32" Column="7" />
       <File FileName="IaMobile/Tests.cs" Line="6" Column="30" />
     </Files>
+    <Pads>
+      <Pad Id="MonoDevelop.UnitTesting.TestPad">
+        <State name="__root__">
+          <Node name="IaMobile" expanded="True" selected="True" />
+        </State>
+      </Pad>
+    </Pads>
   </MonoDevelop.Ide.Workbench>
   <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
   <MonoDevelop.Ide.DebuggingService.Breakpoints>
@@ -12,4 +19,5 @@
   </MonoDevelop.Ide.DebuggingService.Breakpoints>
   <MonoDevelop.Ide.DebuggingService.PinnedWatches />
   <MonoDevelop.Ide.ItemProperties.IaMobile PreferredExecutionTarget="MonoDevelop.Default" />
+  <MultiItemStartupConfigurations />
 </Properties>
